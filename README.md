@@ -3,7 +3,7 @@
 I'm a 19 year old programmer and reverse engineer from Key West, Florida.
 
 ## About Me
-- Aspiring programmer and reverse engineer specializing in low level and binary analysis.
+- Trying to become a programmer and reverse engineer specializing in low level and binary analysis.
 - Transgender, furry, and a supporter of the LGBTQ+ community and inclusive spaces.
 - Gizmo owner, which is my dog who looks identical in terms of fur and personality to my old dog Buddy.
 
