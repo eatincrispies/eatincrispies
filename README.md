@@ -17,6 +17,9 @@ I'm a 19 year old programmer and reverse engineer from Key West, Florida.
 - Writing Python scripts for automated pseudocode extraction and file management in IDA.
 - Creating C++ stuff and utilities.
 
+## Support or Donation
+- [Support me on Ko-Fi](https://ko-fi.com/eatincrispies)
+
 That's pretty much i have to say :3
 
 Meow!~
