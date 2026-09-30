@@ -1,18 +1,18 @@
 # eatincrispies
 
-I am a 19-year-old from Key West, Florida, working toward a career in programming and reverse engineering.
+I am 19 years old from Key West, Florida, aspiring to be a programmer/reverse engineer.
 
 ## About
-- Focused on software development, reverse engineering, and low-level system concepts.
-- Spends time analyzing binaries, decompiling code, and digging into legacy game engine architectures.
-- Dog owner to Gizmo, who has the exact same fur coat and tone as my old dog Buddy from the 2010s.
+- Interested in software development, reverse engineering, and low-level system knowledge.
+- Works on analyzing binaries, disassembling, and understanding the architecture of legacy game engines.
+- Owner of Gizmo, whose fur coat and attitude is exactly like my other dog Buddy that I had in the 2010s.
 
-## Technical Skills & Focus
-- **Languages:** C++, Python, Assembly fundamentals
-- **Tools:** IDA Pro, Visual Studio, Visual Studio Code, Git
-- **Interests:** Game mod development, low-level binary analysis, function/memory reversing
+## Technical Skills & Knowledge
+- **Languages:** C++, Python, Assembly (beginner)
+- **Software:** IDA Pro, Visual Studio, Visual Studio Code, Git
+- **Interests:** Game modding, low-level binary analysis, function and memory reversing
 
-## Projects & Interests
-- Reversing and analyzing legacy game engines (such as EAGL).
-- Writing Python scripts to automate code extraction and binary analysis.
-- Developing custom C++ tools and game mods.
+## Project/Interest Goals
+- Reverse engineering and analyzing legacy game engines (like EAGL).
+- Creating Python scripts for automated code extraction and binary analysis.
+- Making custom C++ game mods.
