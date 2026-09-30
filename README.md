@@ -23,3 +23,6 @@ I'm a 19 year old programmer and reverse engineer from Key West, Florida.
 That's pretty much i have to say :3
 
 Meow!~
+
+> [!WARNING]
+> Personal projects are currently on pause due to family issues and regulatory obligations that require my full attention.
