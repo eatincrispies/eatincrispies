@@ -13,6 +13,6 @@ I am 19 years old from Key West, Florida, aspiring to be a programmer/reverse en
 - **Interests:** Game modding, low-level binary analysis, function and memory reversing
 
 ## Project/Interest Goals
-- Reverse engineering and analyzing legacy game engines (like EAGL).
+- Reverse engineering and analyzing legacy game engines (like EAGL from BB games.).
 - Creating Python scripts for automated code extraction and binary analysis.
 - Making custom C++ game mods.
