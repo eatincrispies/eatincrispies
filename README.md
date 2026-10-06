@@ -24,5 +24,5 @@ That's pretty much i have to say :3
 
 Meow!~
 
-> [!UPDATE]
+> [!WARNING]
 > I'm at least okay to now continue work on projects, however they will be slower and will take more time as family regulations are still happening currently behind my back.
