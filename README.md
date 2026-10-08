@@ -1,6 +1,6 @@
 # eatincrispies
 
-I'm a 19 year old programmer and reverse engineer from Key West, Florida.
+I'm a 19 year from Key West, Florida that likes to mod video games :3
 
 ## About Me
 - Trying to become a programmer and reverse engineer specializing in low level and binary analysis.
