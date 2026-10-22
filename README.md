@@ -14,5 +14,4 @@ That's pretty much i have to say :3
 
 Meow!~
 
-## Status / Life Update :3
-- Dealing with some family stuff in the background right now, so open-source/modding work might be a bit slower than usual. Please be patient.
+> **Note:** Response and update times might be delayed due to ongoing personal/family commitments in the background.
